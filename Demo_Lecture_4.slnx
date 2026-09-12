@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Demo0_types/Demo0_types.vcxproj" Id="ad5160ea-129c-44f9-b4a7-b2d2619f799b" />
+  <Project Path="Demo1_text/Demo1_text.vcxproj" Id="ea2a319c-37b3-4545-8904-192b5ac327c2" />
+  <Project Path="Demo3_handlers/Demo3_handlers.vcxproj" Id="676232bd-2fc5-478e-b3d1-911d34497c1a" />
+  <Project Path="Demo4_error/Demo4_error.vcxproj" Id="146df87e-a2a5-4db8-addf-9026b11cb4c0" />
+  <Project Path="Demo5_buffer/Demo5_buffer.vcxproj" Id="79183837-7ef2-441a-bcbf-17d357a1bffe" />
+  <Project Path="Demo6_exit/Demo6_exit.vcxproj" Id="88ce7aa1-89b0-4c85-bc5b-9d9a2e2c05c7" />
+</Solution>

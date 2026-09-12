@@ -67,3 +67,30 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ---------------------------------------------------------------
+# Visual Studio (додано під це рішення)
+# ---------------------------------------------------------------
+.vs/
+*.vcxproj.user
+
+# Каталоги результатів збирання MSBuild
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Проміжні файли MSBuild
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.exp
+*.recipe
+*.lastbuildstate
+*.ipch
+*.aps
+
+# Файли прикладів із заняття
+out.txt
+err.txt
